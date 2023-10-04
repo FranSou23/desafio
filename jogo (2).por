@@ -9,7 +9,7 @@ programa {
     real numero1, numero2, numero3
     inteiro numeroAleatorio
     numeroAleatorio = Util.sorteia(0,30)
-    escreva(numeroAleatorio)
+    escreva(numeroAleatorio)//se não quiser que apareca o numero é só apagar essa linha
 
     escreva("Você tem 3 chaces de acerto, escreva um numero de 0 a 30 essa é sua 1º chance: ")
     leia(numero1)
