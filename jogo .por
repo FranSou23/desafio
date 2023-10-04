@@ -8,7 +8,7 @@ programa {
   funcao inicio() {
     real numero1, numero2, numero3
     inteiro numeroAleatorio
-    numeroAleatorio = Util.sorteia(0,10)
+    numeroAleatorio = Util.sorteia(0,30)
     escreva(numeroAleatorio)
 
     escreva("Você tem 3 chaces de acerto, escreva um numero de 0 a 30 essa é sua 1º chance: ")
